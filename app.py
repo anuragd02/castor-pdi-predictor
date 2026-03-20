@@ -370,7 +370,7 @@ RISK_DATA = {
         "action_icon": "⚠️",
         "fungicide": "Apply Propiconazole @ 1.5–2.0 ml/L",
         "fungicide_icon": "🧪",
-        "detail": "Significant disease pressure detected. Begin protective spray schedule immediately and reduce canopy humidity where possible.",
+        "detail": "Significant disease pressure detected. Begin protective spray schedule immediately.",
         "detail_icon": "📝",
         "reason": "High rainfall (100–150 mm) and humidity (75–80%), favourable for disease development.",
         "reason_icon": "🌧️",
@@ -402,7 +402,6 @@ st.markdown("""
         <div class="hero-title">🌿 Castor BGM Forecasting and Advisory System</div>
         <div class="hero-sub">Botrytis Gray Mould · Ensemble Regression Model</div>
     </div>
-    <div class="hero-badge">MIT Manipal × UAS Bangalore</div>
 </div>
 """, unsafe_allow_html=True)
 
