@@ -373,9 +373,6 @@ left_col, right_col = st.columns([1, 1], gap="medium")
 # LEFT — Input panel
 # ══════════════════════════════════════════
 with left_col:
-    st.markdown('<div class="panel">', unsafe_allow_html=True)
-
-    st.markdown('<div class="panel-title">🌡 Temperature</div>', unsafe_allow_html=True)
     c1, c2 = st.columns(2)
     with c1:
         temp_max = st.number_input("Max Temp (°C)", min_value=0.0, max_value=60.0, value=35.0, step=0.1, format="%.1f")
