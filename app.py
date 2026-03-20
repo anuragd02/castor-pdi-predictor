@@ -460,7 +460,6 @@ st.markdown("""
         <div class="hero-title">🌿 Castor BGM Forecasting and Advisory System</div>
         <div class="hero-sub">Botrytis Gray Mould · Ensemble Regression Model</div>
     </div>
-    <div class="hero-badge">MIT Manipal × UAS Bangalore</div>
 </div>
 """, unsafe_allow_html=True)
 
