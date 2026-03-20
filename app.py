@@ -5,7 +5,7 @@ import os
 
 # ─── Page Config ─────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Castor PDI Predictor",
+    page_title="Castor BGM Forecasting and Advisory System",
     page_icon="🌿",
     layout="wide",
     initial_sidebar_state="collapsed",
