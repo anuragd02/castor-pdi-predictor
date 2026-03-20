@@ -361,7 +361,6 @@ st.markdown("""
         <div class="hero-title">🌿 Castor PDI Predictor</div>
         <div class="hero-sub">Plant Disease Index · Elastic Net Regression Model</div>
     </div>
-    <div class="hero-badge">MIT Manipal × UAS Bangalore</div>
 </div>
 """, unsafe_allow_html=True)
 
